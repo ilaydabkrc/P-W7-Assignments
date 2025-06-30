@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Week_7\Patifaky\bin\Debug\net6.0\Patifaky.exe
+C:\Users\PC\source\repos\Week_7\Patifaky\bin\Debug\net6.0\Patifaky.deps.json
+C:\Users\PC\source\repos\Week_7\Patifaky\bin\Debug\net6.0\Patifaky.runtimeconfig.json
+C:\Users\PC\source\repos\Week_7\Patifaky\bin\Debug\net6.0\Patifaky.dll
+C:\Users\PC\source\repos\Week_7\Patifaky\bin\Debug\net6.0\Patifaky.pdb
+C:\Users\PC\source\repos\Week_7\Patifaky\obj\Debug\net6.0\Patifaky.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Week_7\Patifaky\obj\Debug\net6.0\Patifaky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Week_7\Patifaky\obj\Debug\net6.0\Patifaky.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Week_7\Patifaky\obj\Debug\net6.0\Patifaky.AssemblyInfo.cs
+C:\Users\PC\source\repos\Week_7\Patifaky\obj\Debug\net6.0\Patifaky.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Week_7\Patifaky\obj\Debug\net6.0\Patifaky.dll
+C:\Users\PC\source\repos\Week_7\Patifaky\obj\Debug\net6.0\refint\Patifaky.dll
+C:\Users\PC\source\repos\Week_7\Patifaky\obj\Debug\net6.0\Patifaky.pdb
+C:\Users\PC\source\repos\Week_7\Patifaky\obj\Debug\net6.0\Patifaky.genruntimeconfig.cache
+C:\Users\PC\source\repos\Week_7\Patifaky\obj\Debug\net6.0\ref\Patifaky.dll
