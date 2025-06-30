@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\bin\Debug\net6.0\Patikaflix1.exe
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\bin\Debug\net6.0\Patikaflix1.deps.json
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\bin\Debug\net6.0\Patikaflix1.runtimeconfig.json
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\bin\Debug\net6.0\Patikaflix1.dll
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\bin\Debug\net6.0\Patikaflix1.pdb
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\obj\Debug\net6.0\Patikaflix1.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\obj\Debug\net6.0\Patikaflix1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\obj\Debug\net6.0\Patikaflix1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\obj\Debug\net6.0\Patikaflix1.AssemblyInfo.cs
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\obj\Debug\net6.0\Patikaflix1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\obj\Debug\net6.0\Patikaflix1.dll
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\obj\Debug\net6.0\refint\Patikaflix1.dll
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\obj\Debug\net6.0\Patikaflix1.pdb
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\obj\Debug\net6.0\Patikaflix1.genruntimeconfig.cache
+C:\Users\PC\source\repos\Patikaflix\Patikaflix1\obj\Debug\net6.0\ref\Patikaflix1.dll

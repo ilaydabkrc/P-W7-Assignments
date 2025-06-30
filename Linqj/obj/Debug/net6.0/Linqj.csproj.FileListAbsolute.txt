@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Patikaflix\Linqj\bin\Debug\net6.0\Linqj.exe
+C:\Users\PC\source\repos\Patikaflix\Linqj\bin\Debug\net6.0\Linqj.deps.json
+C:\Users\PC\source\repos\Patikaflix\Linqj\bin\Debug\net6.0\Linqj.runtimeconfig.json
+C:\Users\PC\source\repos\Patikaflix\Linqj\bin\Debug\net6.0\Linqj.dll
+C:\Users\PC\source\repos\Patikaflix\Linqj\bin\Debug\net6.0\Linqj.pdb
+C:\Users\PC\source\repos\Patikaflix\Linqj\obj\Debug\net6.0\Linqj.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Patikaflix\Linqj\obj\Debug\net6.0\Linqj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Patikaflix\Linqj\obj\Debug\net6.0\Linqj.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Patikaflix\Linqj\obj\Debug\net6.0\Linqj.AssemblyInfo.cs
+C:\Users\PC\source\repos\Patikaflix\Linqj\obj\Debug\net6.0\Linqj.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Patikaflix\Linqj\obj\Debug\net6.0\Linqj.dll
+C:\Users\PC\source\repos\Patikaflix\Linqj\obj\Debug\net6.0\refint\Linqj.dll
+C:\Users\PC\source\repos\Patikaflix\Linqj\obj\Debug\net6.0\Linqj.pdb
+C:\Users\PC\source\repos\Patikaflix\Linqj\obj\Debug\net6.0\Linqj.genruntimeconfig.cache
+C:\Users\PC\source\repos\Patikaflix\Linqj\obj\Debug\net6.0\ref\Linqj.dll
